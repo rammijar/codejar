@@ -53,6 +53,6 @@ chmod -R 775 assets/uploads/
 <div align="center">
   <strong>Made with ❤️ by Ram Mijar</strong>
 </div>
-```
+
 
 
